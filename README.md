@@ -6,10 +6,7 @@ This is my personal repository, showcasing my projects and experiments in DevOps
 ## Table of Contents
 - [Technologies Iam learning](#technologies-used)
 - [Projects](#projects)
-- [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies I learn
 - AWS (Amazon Web Services)
@@ -20,9 +17,10 @@ This is my personal repository, showcasing my projects and experiments in DevOps
 - Ansible
 
 ## Projects
-### Project 1: [Soon to come]
-- **Description:** ...
-- **Technologies:** ...
+- Check out a list of my projects here
+
+## Usage
+- Feel free to use my scripts for your purposes :). 
 
 
 
