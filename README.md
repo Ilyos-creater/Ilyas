@@ -1,7 +1,7 @@
 # My Personal Repository
 
 ## Description
-This is my personal repository, showcasing my projects and experiments in DevOps and Cloud technologies. Here, you'll find tools, scripts, and resources that reflect my skills and interests in optimizing workflows and enhancing cloud infrastructure. Feel free to explore, contribute, or reach out for collaboration! Currently I am working on the Learn to Cloud Guide, trying to learn DevOps and cloud.
+This is my personal repository, showcasing my projects and experiments in DevOps and Cloud technologies. Here, you'll find tools, scripts, and resources that reflect my skills and interests in optimizing workflows and enhancing cloud infrastructure. Feel free to explore, contribute, or reach out for collaboration!
 
 ## Table of Contents
 - [Technologies Iam learning](#technologies-used)
@@ -15,9 +15,14 @@ This is my personal repository, showcasing my projects and experiments in DevOps
 - Terraform
 - Jenkins
 - Ansible
+- Bash
+- Linux
+- Java
+- Python
+  ...
 
 ## Projects
-- Check out a list of my projects here
+- CloudUploader-CLI
 
 ## Usage
 - Feel free to use my scripts for your purposes :). 
