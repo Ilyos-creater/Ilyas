@@ -24,7 +24,7 @@ How to Install and Run the Project
 To get started with CloudUploader-CLI, follow these simple steps:
 
 Clone the repository:
-git clone https://github.com/ilyos-creater/CloudUploader-CLI.git
+git clone [https://github.com/ilyos-creater/CloudUploader-CLI.git](https://github.com/Ilyos-creater/Ilyas.git)
 
 Navigate to the project directory:
 cd CloudUploader-CLI
