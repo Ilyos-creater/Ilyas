@@ -22,7 +22,7 @@ This is my personal repository, showcasing my projects and experiments in DevOps
   ...
 
 ## Projects
-- CloudUploader-CLI
+- CloudUploader-CLI(https://github.com/Ilyos-creater/Ilyas/tree/main/CloudUploader_CLI)
 
 ## Usage
 - Feel free to use my scripts for your purposes :). 
