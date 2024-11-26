@@ -51,6 +51,6 @@ Now just run the code and you can utilize this CloudUploader.
 Feel free to use this in any context you want to. :)
 
 
-Credits
-Your Name: Ilyos-creater <br/>
+Credits <br/>
+Ilyos-creater (me, myself :)) <br/>
 Tutorials and resources: As already mentioned the inspiration from this project comes from Learn 2 Cloud. Also since this is my first Bash project i used ChatGPT to help me out a bit, whenever I had problems in coding.
