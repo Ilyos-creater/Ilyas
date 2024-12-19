@@ -1,36 +1,34 @@
-# My Personal Repository
+# Ilyas El-Hallaoui
+DevOps Learner, Cloud Learner, Kubernetes Learner. Hello, I am Ilyas I am currently 19 years old and next to my internship I self study DevOps and Cloud. I mostly work/learn Kubernetes, AWS, Linux and Python. At least these are my main Focus Points, when it comes to self Studying. 
 
-## Description
-This is my personal repository, showcasing my projects and experiments in DevOps and Cloud technologies. Here, you'll find tools, scripts, and resources that reflect my skills and interests in optimizing workflows and enhancing cloud infrastructure. Feel free to explore, contribute, or reach out for collaboration!
+## I run my own DevOps Community:
+<a> https://gokollab.com/ilyas-free-group-u9v2ah/home?invite=6764074d206de781677e9c60 </a>
 
-## Table of Contents
-- [Technologies Iam learning](#technologies-used)
-- [Projects](#projects)
-- [Usage](#usage)
+## Things I have built
 
-## Technologies I learn
-- AWS (Amazon Web Services)
-- Docker
-- Kubernetes
-- Terraform
-- Jenkins
-- Ansible
-- Bash
-- Linux
-- Java
-- Python
-  ...
 
-## Projects
-- CloudUploader-CLI(https://github.com/Ilyos-creater/Ilyas/tree/main/CloudUploader_CLI)
+### Cloud Resume Challenge
+
+
+### Bash
+I started to 
+### AWS
+Next to DevOps I also study AWS and do some Projects in there. I document my AWS Lab on my Youtube Channel
+
+
+### Python
+I recently started to learn Python to the 
+
 
 ## Usage
 - Feel free to use my scripts for your purposes :). 
 
 
+### CloudUploader-CLI
 
-## Installation Instructions
-To install and run the projects, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
+As one of my first project I built a clouduploader in bash, to Upload Files into S3 buckets on AWS over the CLI:
+<a> https://github.com/Ilyos-creater/Ilyas/tree/main/Bash_Projekte/CloudUploader_CLI </a>
+
+## Recent Blog Posts
+I also recently started to Blog:
+
