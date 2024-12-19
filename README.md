@@ -10,18 +10,16 @@ DevOps Learner, Cloud Learner, Kubernetes Learner. Hello, I am Ilyas I am curren
 ### Cloud Resume Challenge
 
 
-### Bash
-I started to 
-### AWS
-Next to DevOps I also study AWS and do some Projects in there. I document my AWS Lab on my Youtube Channel
+
+## AWS
+I am actively learning AWS since the beginning of my Journey and I decided to focus on this Cloud Provider. I am a Certified Cloud Practitioner since August 2024. I document my AWS journey (Labs, Projects, Certs..) on my Youtube Channel.
 
 
 ### Python
-I recently started to learn Python to the 
+I recently started to learn Python on KodeKloud and hopefully I can soon share some Python based Projects here :).
 
 
-## Usage
-- Feel free to use my scripts for your purposes :). 
+
 
 
 ### CloudUploader-CLI
@@ -30,5 +28,5 @@ As one of my first project I built a clouduploader in bash, to Upload Files into
 <a> https://github.com/Ilyos-creater/Ilyas/tree/main/Bash_Projekte/CloudUploader_CLI </a>
 
 ## Recent Blog Posts
-I also recently started to Blog:
+I also recently started a Blog:
 
