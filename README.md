@@ -1,8 +1,7 @@
 # Ilyas El-Hallaoui
 DevOps Learner, Cloud Learner, Kubernetes Learner. Hello, I am Ilyas I am currently 19 years old and next to my internship I self study DevOps and Cloud. I mostly work/learn Kubernetes, AWS, Linux and Python. At least these are my main Focus Points, when it comes to self Studying. 
 
-## I run my own DevOps Community:
-<a> https://gokollab.com/ilyas-free-group-u9v2ah/home?invite=6764074d206de781677e9c60 </a>
+
 
 ## Things I have built
 
