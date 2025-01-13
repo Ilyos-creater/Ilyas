@@ -6,6 +6,10 @@ DevOps Intern, Cloud Explorer, Kubernetes Enthusiast. Hello, I am Ilyas I am cur
 
 I made and deployed this website, after finishing my first AWS cert, the AWS Cerified Cloud Practitioner. This website is part of the AWS Cloud Resume Challenge. I learned some WordPress at my internship and new how to deploy, through my own research and the study time for the AWS CCP.
 
+### Over the Wire
+
+I recently started the Over the Wire Linux game, here I document my solutions:
+<a> https://github.com/Ilyos-creater/Over-the-wire </a>
 
 ## Things I have built
 ### Kubernetes Homelab
@@ -21,9 +25,6 @@ I am actively learning AWS since the beginning of my Journey and I decided to fo
 
 ### Python
 I recently started to learn Python on KodeKloud and hopefully I can soon share some Python based Projects here :).
-
-
-
 
 
 ### CloudUploader-CLI
