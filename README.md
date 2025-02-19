@@ -29,13 +29,12 @@ I recently started to run my own K3S cluster on my dual booted Laptop. Check it 
 I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and then gave it my whole focus. 
 
 ### Programming
-I recently started to take my programming skills more serious learning Bash/Python. Hopefully I will soon be able to upload some projects :)
+I recently started to take my programming skills more serious learning Bash/Python.
+
+#### Bash-Repo:
+<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps</a>
 
 
-### CloudUploader-CLI
-
-As one of my first project I built a clouduploader in bash, to help me Upload Files into S3 buckets on AWS over the CLI. Whilst not in use, this was my first real Bash Script, so feel free to use it:
-<a> https://github.com/Ilyos-creater/Ilyas/tree/main/Bash_Projekte/CloudUploader_CLI </a>
 
 ## Recent Blog Posts
 I also document my whole journey on Social Media and (soon) in my blog.
