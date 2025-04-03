@@ -36,7 +36,3 @@ I recently started to take my programming skills more serious learning Bash/Pyth
 
 
 
-## Recent Blog Posts
-I also document my whole journey on Social Media and in my own tech blog.
-My Blog: <a> https://medium.com/@ilyas-Dev-Ops </a>
-
