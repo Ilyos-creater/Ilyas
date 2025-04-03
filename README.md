@@ -26,7 +26,7 @@ I recently started to run my own K3S cluster on my dual booted Laptop. Check it 
 
 
 ## Cloud
-I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and then gave it my whole focus. 
+I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and now giving it my whole focus. 
 
 ### Programming
 I recently started to take my programming skills more serious learning Bash/Python.
