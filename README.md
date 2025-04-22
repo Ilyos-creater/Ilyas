@@ -27,6 +27,8 @@ I recently started to run my own K3S cluster on my dual booted Laptop. Check it 
 
 ## Cloud
 I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and now giving it my whole focus. 
+Here is my Cloud Resume hosted on Azure:
+<a> https://happy-bush-01f706410.6.azurestaticapps.net/ </a>
 
 ### Programming
 I recently started to take my programming skills more serious learning Bash/Python.
