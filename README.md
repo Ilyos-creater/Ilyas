@@ -7,34 +7,36 @@ DevOps/Cloud Explorer, Kubernetes Enthusiast. Hello, I am Ilyas I am currently 1
 This is my Attempt at the Cloud Resume Challenge(Azure):
 <a>https://github.com/Ilyos-creater/azure-resume</a>
 
+#### Bash-Repo:
+I recently do a lot of different Bash Scripts, trying to get proficient in Bash Scripting view them here
+<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps</a>
+
+I am currently working on a somewhat bigger project::
+<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps/tree/main/Bash-practices/Bash-weitereAufgaben/Projekt-Bash-Scripting</a>
+
 ### Over the Wire
 
-I recently started the Over the Wire Linux game, here I document my solutions:
+As a means to get better at using the CLI in a playful manner, I played the Overthewire game and here I document my solutions:
 <a> https://github.com/Ilyos-creater/Over-the-wire </a>
 
 ### Kodekloud Engineer:
-I recently started to solve labs as a Kodekloud Engineer. Check out my Journey here:
+Some Labs I solved last year as a part of the Kodekloud Engineer Programm:
 <a>https://github.com/Ilyos-creater/Kodekloud-Engineer</a>
-
-## Things I have built
-### Kubernetes Homelab
-
-I recently started to run my own K3S cluster on my dual booted Laptop. Check it out here:
-<a>https://github.com/Ilyos-creater/Kubernetes-Homelab</a>
-
-
-
 
 ## Cloud
 I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and now giving it my whole focus. 
 Here is my Cloud Resume hosted on Azure:
 <a> https://happy-bush-01f706410.6.azurestaticapps.net/ </a>
 
-### Programming
-I recently started to take my programming skills more serious learning Bash/Python.
+### Kubernetes Homelab
+I plan on running a Kubernetes Homelab in the future, but first I am learning the basics, so I might restrucutre later.:
+<a>https://github.com/Ilyos-creater/Kubernetes-Homelab</a>
 
-#### Bash-Repo:
-<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps</a>
+
+### Programming
+I recently started to take my programming skills more serious learning Bash and wanting to learn Python next :).
+
+
 
 
 
