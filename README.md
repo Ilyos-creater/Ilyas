@@ -1,5 +1,5 @@
 # Ilyas El-Hallaoui
-DevOps/Cloud Explorer, Kubernetes Enthusiast. Hello, I am Ilyas I am currently 19 years old. I work mainly with Linux, Azure, Kubernetes and Python.
+I am 19 year old dual student. I study business Informatics at the Wilhelm Büchnher Hochschule in germany and next to this work as a DevOps-Enginenr & IT-Consultant. Also I am a DevOps Expolrer and Kubernetes Enthusiast. I work mainly with Linux, Azure, Kubernetes and Python.
 
 
 ### More about me:
