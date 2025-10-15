@@ -10,11 +10,7 @@ I’m a 19-year-old dual student (Business Informatics) and hands-on DevOps/Clou
 - **Linux & Bash (daily CLI reps)**
   - Small, frequent scripts and mini-tools to automate real tasks.
   - Repo (practice + exercises):  
-    - Bash study log: <https://github.com/ilyos-creater/Bash-Study>  
-    - Bash automation sandbox: <https://github.com/ilyos-creater/Bash-Automation-DevOps>  
-    - Practice tasks project: <https://github.com/ilyos-creater/DevOps/tree/main/Bash-practices/Bash-weitereAufgaben/Projekt-Bash-Scripting>
-  - OverTheWire write-ups (problem-solving via shell):  
-    <https://github.com/ilyos-creater/Over-the-wire>
+    - Bash study: <https://github.com/Ilyos-creater/Bash-Study>
 
 - **Docker (packaging & repeatable envs)**
   - Labs & tiny services to internalize images, layers, networks & volumes.  
