@@ -1,42 +1,62 @@
 # Ilyas El-Hallaoui
-I am 19 year old dual student. I study business Informatics at the Wilhelm Büchnher Hochschule in germany and next to this work as a DevOps-Enginenr & IT-Consultant. Also I am a DevOps Expolrer and Kubernetes Enthusiast. I work mainly with Linux, Azure, Kubernetes and Python.
 
+I’m a 19-year-old dual student (Business Informatics) and hands-on DevOps/Cloud learner.  
+**My philosophy:** I don’t “study about” tech — I **touch it, break it, fix it, and ship it**. I learn by doing, documenting, and iterating.
 
-### More about me:
+---
 
-This is my Attempt at the Cloud Resume Challenge(Azure):
-<a>https://github.com/Ilyos-creater/azure-resume</a>
+## What I’m focused on (practice first)
 
-#### Bash-Repo:
-I recently do a lot of different Bash Scripts, trying to get proficient in Bash Scripting view them here
-<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps</a>
+- **Linux & Bash (daily CLI reps)**
+  - Small, frequent scripts and mini-tools to automate real tasks.
+  - Repo (practice + exercises):  
+    - Bash study log: <https://github.com/ilyos-creater/Bash-Study>  
+    - Bash automation sandbox: <https://github.com/ilyos-creater/Bash-Automation-DevOps>  
+    - Practice tasks project: <https://github.com/ilyos-creater/DevOps/tree/main/Bash-practices/Bash-weitereAufgaben/Projekt-Bash-Scripting>
+  - OverTheWire write-ups (problem-solving via shell):  
+    <https://github.com/ilyos-creater/Over-the-wire>
 
-I am currently working on a somewhat bigger project::
-<a>https://github.com/Ilyos-creater/Bash-Automation-DevOps/tree/main/Bash-practices/Bash-weitereAufgaben/Projekt-Bash-Scripting</a>
+- **Docker (packaging & repeatable envs)**
+  - Labs & tiny services to internalize images, layers, networks & volumes.  
+    <https://github.com/ilyos-creater/DockerLab>
 
-### Over the Wire
+- **Python (tooling for DevOps)**
+  - Simple, useful scripts/APIs that solve my own problems first.  
+    <https://github.com/ilyos-creater/Pythonlab>
 
-As a means to get better at using the CLI in a playful manner, I played the Overthewire game and here I document my solutions:
-<a> https://github.com/Ilyos-creater/Over-the-wire </a>
+- **Cloud (build > read)**
+  - Azure-hosted Cloud Resume (IaC + CI/CD experiments around it):  
+    Repo: <https://github.com/ilyos-creater/azure-resume>  
+    Live: <https://happy-bush-01f706410.6.azurestaticapps.net/>
 
-### Kodekloud Engineer:
-Some Labs I solved last year as a part of the Kodekloud Engineer Programm:
-<a>https://github.com/Ilyos-creater/Kodekloud-Engineer</a>
+- **Kubernetes (soon)**
+  - Homelab plans (k3s → RBAC, networking, observability, GitOps).  
+    <https://github.com/ilyos-creater/Kubernetes-Homelab>
 
-## Cloud
-I started my Cloud Journey with AWS and the AWS CCP. But soon after switched to azure and now giving it my whole focus. 
-Here is my Cloud Resume hosted on Azure:
-<a> https://happy-bush-01f706410.6.azurestaticapps.net/ </a>
+---
 
-### Kubernetes Homelab
-I plan on running a Kubernetes Homelab in the future, but first I am learning the basics, so I might restrucutre later.:
-<a>https://github.com/Ilyos-creater/Kubernetes-Homelab</a>
+## How I work
 
+- **Practice > Theory:** concepts stick when I apply them immediately.
+- **Tight feedback loops:** logs, tests, and small commits over big “mystery” changes.
+- **Readable by default:** clear README files, comments, and issue notes.
+- **AI policy:** I use AI **only for feedback, code reviews, and conceptual explanations** — **not** for solutions. I must understand everything I run.
 
-### Programming
-I recently started to take my programming skills more serious learning Bash and wanting to learn Python next :).
+---
 
+## Weekly learning rhythm (simple & consistent)
 
+- **Mon – Python**
+- **Tue – Docker**
+- **Thu – Linux / Shell**
 
+Everything I push here is a reflection of that routine: tiny, useful, and improving.
 
+---
 
+## Contact / Profiles
+
+- LinkedIn: <https://www.linkedin.com/in/ilyas-el-hallaoui-49639820b/>
+- Credly: <https://www.credly.com/users/ilyas-el-hallaoui>
+
+> If you have suggestions, open an issue in the relevant repo. Feedback that makes me build better is always welcome.
